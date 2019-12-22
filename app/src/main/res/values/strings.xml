@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StepView Demo</string>
+    <string name="basic_horizontal_title">StepView Demo</string>
+    <string name="basic_horizontal_description">Use the side menu to explore the behaviour and customization of HorizontalStepView and VerticalStepView</string>
+    <string name="basic_vertical_forward_description">To display steps in order, call setReverse(false) on the VerticalStepView. Refer BasicVerticalForwardFragment</string>
+    <string name="basic_vertical_reverse_description">By default, the VerticalStepView shows steps in reverse order</string>
+    <string name="custom_title">StepView customization</string>
+    <string name="custom_description">The dimensions and styles of the StepView drawables, lines and text can be customized programmatically. Refer to CustomFragment for more.</string>
+    <string name="state_change_description">Use the buttons below to \'navigate\' between steps and toggle their state</string>
+    <string name="state_change_prev_btn"><![CDATA[<< Prev step]]></string>
+    <string name="state_change_next_btn"><![CDATA[Next step >>]]></string>
+    <string name="state_change_mark_completed">Mark completed</string>
+    <string name="state_change_mark_not_completed">Mark not completed</string>
+    <string name="menu_horizontal_basic">Horizontal - Basic</string>
+    <string name="menu_vertical_basic_reverse">Vertical - Basic (Reverse)</string>
+    <string name="menu_vertical_basic_forward">Vertical - Basic (Forward)</string>
+    <string name="menu_customization">Customization</string>
+    <string name="menu_state_change">State changes</string>
+</resources>
