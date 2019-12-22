@@ -14,6 +14,8 @@ Default
 
 <img width="500"  src="images/basic-horizontal-stepview.png" alt="Default Horizontal StepView"></img>
 
+<img width="500"  src="images/horizontal_full_line.png" alt="Full Line Horizontal StepView"></img>
+
 Customized
 
 <img width="500"  src="images/custom-horizontal-stepview.png" alt="Customized Horizontal StepView"></img>
@@ -26,6 +28,9 @@ Default (reverse order)
 Default (forward order)
 
 <img height="500" src="images/basic-forward-vertical-stepview.png">
+
+Full line Vertical StepView
+<img height="500" src="images/vertical_full_line.png" alt="Full Line Vertical StepView">
 
 ## Getting started
 
