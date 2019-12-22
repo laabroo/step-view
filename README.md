@@ -94,6 +94,8 @@ horizontalStepView // Also applies to VerticalStepView
 	// Line colors
 	.setCompletedLineColor(Color.parseColor("#ea655c")) // Default: Color.WHITE
 	.setNotCompletedLineColor(Color.parseColor("#eaac5c")) // Default: Color.WHITE
+	// Line Type
+	.setNotCompleteLineType(false) // Default: True (Dash line) and False (Full line)
 	// Text size (in sp)
 	.setTextSize(15) // Default: 14sp
 	// Drawable radius (in dp)
