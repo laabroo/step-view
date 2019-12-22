@@ -10,7 +10,7 @@ StepView Demo app is available on [Google Play Store](https://play.google.com/st
 
 ### HorizontalStepView
 
-Default
+Default (dash line)
 
 <img width="500"  src="images/basic-horizontal-stepview.png" alt="Default Horizontal StepView"></img>
 
