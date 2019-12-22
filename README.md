@@ -52,7 +52,7 @@ Full line Vertical StepView
 2. Add StepView as a dependency in your module build.gradle
 	```
 	dependencies {
-	  implementation 'com.github.vinaygopinath:StepView:2.0.1'
+	  implementation 'com.github.laabroo:step-view:1.0'
 	}
 	```
 
